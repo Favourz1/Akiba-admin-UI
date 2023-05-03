@@ -25,7 +25,8 @@
                         <div class="form-container mb-5">
                             <div class="text-center mb-4 pb-1">
                                 <h3 class="login-header">Welcome back 👋</h3>
-                                <p class="login-subtext">Log in to your account. New to Akiba? <a class="text-link" href="signup.php">Sign up</a></p>
+                                <p class="login-subtext">Log in to your account. New to Akiba? <a class="text-link"
+                                        href="signup.php">Sign up</a></p>
                             </div>
                             <form method="post" name="myform" class="" action="dashboard.php">
                                 <div class="form-group">
@@ -37,10 +38,11 @@
                                     <input type="password" class="form-control" placeholder="Password" name="password">
                                 </div>
                                 <div class="login-button text-center">
-                                    <a href="users.php" type="submit" class="btn btn-secondary btn-block">Log in</a>
+                                    <a href="dashboard.php" type="submit" class="btn btn-secondary btn-block">Log in</a>
                                 </div>
                                 <div class="forgot-password text-center mt-4">
-                                    <p class="mb-0"><a class="text-link forgot-password--link" href="password-reset.php">Forgot password?</a></p>
+                                    <p class="mb-0"><a class="text-link forgot-password--link"
+                                            href="password-reset.php">Forgot password?</a></p>
                                 </div>
                             </form>
                         </div>
