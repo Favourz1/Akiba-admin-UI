@@ -15,9 +15,9 @@
 
     <div id="main-wrapper">
 
-        <?php 
-            include('modules/topbar.php');
-            include('modules/sidebar.php');
+        <?php
+        include('modules/topbar.php');
+        include('modules/sidebar.php');
         ?>
 
         <div class="content-body">
@@ -218,7 +218,7 @@
                                         <div class="form-row">
                                             <div class="form-group col-xl-6">
                                                 <label class="mr-sm-2">First Name*</label>
-                                                <input type="text" class="form-control" value="Adegbenga" placeholder=""
+                                                <input type="text" class="form-control" value="Favour" placeholder=""
                                                     name="firstname">
                                             </div>
                                             <div class="form-group col-xl-6">
@@ -228,7 +228,7 @@
                                             </div>
                                             <div class="form-group col-xl-6">
                                                 <label class="mr-sm-2">Email*</label>
-                                                <input type="email" class="form-control" value="iam@adegbengaagoro.co"
+                                                <input type="email" class="form-control" value="okohfavour91@gmail.com"
                                                     placeholder="" name="email">
                                             </div>
                                             <div class="form-group col-xl-6">
@@ -554,8 +554,8 @@
                                         <div class="form-row">
                                             <div class="form-group col-xl-6">
                                                 <label class="mr-sm-2" for="backup-email">Secondary/Backup Email</label>
-                                                <input type="email" class="form-control"
-                                                    value="adegbenga@designsbycrenet.com" placeholder="">
+                                                <input type="email" class="form-control" value="okohfavour91@gmail.com"
+                                                    placeholder="">
                                             </div>
                                             <div class="col-12">
                                                 <p class="instruction-text text-muted">Adding a secondary email helps to
@@ -675,9 +675,9 @@
         </div>
     </div>
 
-    <?php 
-        include('modules/modals.php');
-        include('modules/footer-script.php');
+    <?php
+    include('modules/modals.php');
+    include('modules/footer-script.php');
     ?>
 
 

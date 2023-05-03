@@ -30,9 +30,9 @@
                             <form method="post" name="myform" class="" action="dashboard.php">
                                 <div class="logged-in--account">
                                     <div class="avatar-image">
-                                        <span class="initials">AA</span>
+                                        <span class="initials">FO</span>
                                     </div>
-                                    <p class="mb-0">i**@adegbengaagoro.co</p>
+                                    <p class="mb-0">ok**@gmail.com</p>
                                     <div class="close-btn">
                                         <button type="button" class="close" aria-label="close">
                                             <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24"
