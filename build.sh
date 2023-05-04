@@ -21,4 +21,11 @@ do
 	echo "Processing $f file..";
 done
 
+#Copy all CSS files
+for f in css/*.css; 
+do
+	cat $f > "$DEST/$f";
+	echo "Processing $f file..";
+done
+
 echo "Process complete." ;
