@@ -14,17 +14,26 @@ do
 	echo "Processing $f into ${f/.php/$html}..";
 done
 
-#Copy all CSS files
-for f in *.css; 
-do
-	cat $f > "$DEST/$f";
-	echo "Processing $f file..";
-done
+# #Copy all CSS files
+# for f in *.css; 
+# do
+# 	cat $f > "$DEST/$f";
+# 	echo "Processing $f file..";
+# done
 
 #Copy all CSS files
 for f in css/*.css; 
 do
 	cat $f > "$DEST/$f";
+	echo "Processing $f file..";
+done
+
+#Copy all folders
+for f in */; 
+do
+	cat $f > "$DEST/$f";
+	cp -r */ ../public/
+	cp -r */ "$DEST"
 	echo "Processing $f file..";
 done
 
