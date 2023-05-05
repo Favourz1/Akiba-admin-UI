@@ -33,7 +33,7 @@
                                         <input type="email" class="form-control" placeholder="hello@example.com">
                                     </div>
                                     <div class="text-center">
-                                        <a href="login.php" type="submit" class="btn btn-secondary btn-block">Reset</a>
+                                        <a href="login.html" type="submit" class="btn btn-secondary btn-block">Reset</a>
                                     </div>
                                 </form>
                                 <div class="new-account d-flex mt-3">

@@ -34,7 +34,7 @@
                                         <div class="widget-card-wrapper col-lg-3">
                                             <div class="d-flex align-items-center mb-4">
                                                 <div class="widget-title mr-3">Airtime</div>
-                                                <!-- <a href="utility.php"><i class="las la-arrow-right"></i></a> -->
+                                                <!-- <a href="utility.html"><i class="las la-arrow-right"></i></a> -->
                                             </div>
                                             <div class="widget-info align-items-center">
                                                 <div class="widget-info-desc">
@@ -52,7 +52,7 @@
                                         <div class="widget-card-wrapper col-lg-3">
                                             <div class="d-flex align-items-center mb-4">
                                                 <div class="widget-title mr-3">Data</div>
-                                                <!-- <a href="utility.php"><i class="las la-arrow-right"></i></a> -->
+                                                <!-- <a href="utility.html"><i class="las la-arrow-right"></i></a> -->
                                             </div>
                                             <div class="widget-info align-items-center">
                                                 <div class="widget-info-desc">
@@ -70,7 +70,7 @@
                                         <div class="widget-card-wrapper col-lg-3">
                                             <div class="d-flex align-items-center mb-4">
                                                 <div class="widget-title mr-3">Utility</div>
-                                                <!-- <a href="utility.php"><i class="las la-arrow-right"></i></a> -->
+                                                <!-- <a href="utility.html"><i class="las la-arrow-right"></i></a> -->
                                             </div>
                                             <div class="widget-info align-items-center">
                                                 <div class="widget-info-desc">
@@ -88,7 +88,7 @@
                                         <div class="widget-card-wrapper col-lg-3">
                                             <div class="d-flex align-items-center mb-4">
                                                 <div class="widget-title mr-3">TV</div>
-                                                <!-- <a href="utility.php"><i class="las la-arrow-right"></i></a> -->
+                                                <!-- <a href="utility.html"><i class="las la-arrow-right"></i></a> -->
                                             </div>
                                             <div class="widget-info align-items-center">
                                                 <div class="widget-info-desc">
@@ -115,7 +115,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Mtn</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -140,7 +140,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Airtel</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -165,7 +165,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Glo</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -190,7 +190,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">9mobile</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -215,7 +215,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Ikeja Electric</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -240,7 +240,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Dstv</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -265,7 +265,7 @@
                                             <div class="widget-card-wrapper w-100">
                                                 <div class="d-flex justify-content-between align-items-center mb-4">
                                                     <div class="widget-title">Gotv</div>
-                                                    <a href="utility.php"><i class="las la-arrow-right"></i></a>
+                                                    <a href="utility.html"><i class="las la-arrow-right"></i></a>
                                                 </div>
                                                 <div class="widget-info align-items-center">
                                                     <div class="widget-info-desc">
@@ -333,7 +333,7 @@
                                                                         <td>1</td>
                                                                         <td>D-SAVE-0001</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -359,7 +359,7 @@
                                                                         <td>2</td>
                                                                         <td>S-SAVE-04091</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -385,7 +385,7 @@
                                                                         <td>3</td>
                                                                         <td>V-SAVE-0021</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -411,7 +411,7 @@
                                                                         <td>4</td>
                                                                         <td>S-SAVE-0096</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -437,7 +437,7 @@
                                                                         <td>5</td>
                                                                         <td>T-SAVE-0490</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -463,7 +463,7 @@
                                                                         <td>6</td>
                                                                         <td>D-SAVE-0034</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -489,7 +489,7 @@
                                                                         <td>7</td>
                                                                         <td>T-SAVE-0031</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -515,7 +515,7 @@
                                                                         <td>8</td>
                                                                         <td>V-SAVE-0501</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -541,7 +541,7 @@
                                                                         <td>9</td>
                                                                         <td>S-SAVE-0641</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"
@@ -567,7 +567,7 @@
                                                                         <td>10</td>
                                                                         <td>S-SAVE-0482</td>
                                                                         <td>
-                                                                            <a href="user-profile.php"
+                                                                            <a href="user-profile.html"
                                                                                 class="user-name-cell">
                                                                                 <div class="user-avatar-wrapper">
                                                                                     <img alt="User Image"

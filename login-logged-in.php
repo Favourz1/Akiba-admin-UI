@@ -18,7 +18,7 @@
                 <div class="auth-content">
                     <div class="auth-form">
                         <div class="mini-logo text-center mb-5">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="./images/logo/akiba-tribe.png" alt="Akiba Logo">
                             </a>
                         </div>
@@ -27,7 +27,7 @@
                                 <h3 class="login-header">Welcome back 👋</h3>
                                 <p class="login-subtext">Sign into your account below</p>
                             </div>
-                            <form method="post" name="myform" class="" action="dashboard.php">
+                            <form method="post" name="myform" class="" action="dashboard.html">
                                 <div class="logged-in--account">
                                     <div class="avatar-image">
                                         <span class="initials">FO</span>
@@ -54,11 +54,11 @@
                                 </div>
                                 <div class="forgot-password text-center mt-4">
                                     <p class="mb-0"><a class="text-link forgot-password--link"
-                                            href="password-reset.php">Forgot password?</a></p>
+                                            href="password-reset.html">Forgot password?</a></p>
                                 </div>
                                 <div class="change-login--details text-center mt-4">
                                     <span class="need-help-text">Not you?</span>
-                                    <br><a class="text-link" href="login.php">Login with a different account</a>
+                                    <br><a class="text-link" href="login.html">Login with a different account</a>
                                 </div>
                             </form>
                         </div>

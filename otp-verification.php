@@ -19,7 +19,7 @@
                 <div class="auth-content">
                     <div class="auth-form">
                         <div class="mini-logo text-center mb-5">
-                            <a href="signup.php">
+                            <a href="signup.html">
                                 <img src="./images/logo/akiba-tribe.png" alt="Akiba Logo">
                             </a>
                         </div>
@@ -29,20 +29,18 @@
                                 code below.</p>
                         </div>
                         <div class="form-container">
-                            <form method="post" name="myform" class="" action="dashboard.php">
+                            <form method="post" name="myform" class="" action="dashboard.html">
                                 <div class="form-row">
                                     <div class="form-group col-xl-12">
                                         <label>OTP Token</label>
-                                        <input type="text" class="form-control otp-token" maxlength="6" placeholder=""
-                                            name="otp">
+                                        <input type="text" class="form-control otp-token" maxlength="6" placeholder="" name="otp">
                                     </div>
                                 </div>
                                 <div class="text-center">
-                                    <a href="users.php" type="submit" class="btn btn-secondary btn-block mt-2">Validate
+                                    <a href="dashboard.html" type="submit" class="btn btn-secondary btn-block mt-2">Validate
                                         OTP Token</a>
                                 </div>
-                                <div class="password-instruction mt-4 text-center">Didn't get the OTP? <a href=""
-                                        type="button" id="resend-otp-button" class="text-link">Resend</a></div>
+                                <div class="password-instruction mt-4 text-center">Didn't get the OTP? <a href="" type="button" id="resend-otp-button" class="text-link">Resend</a></div>
                             </form>
                         </div>
                     </div>

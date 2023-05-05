@@ -1,13 +1,17 @@
 <!-- Update Payment Details -->
-<div class="modal fade" id="updatePayment" tabindex="-1" role="dialog" aria-labelledby="updatePaymentLabel" aria-hidden="true">
+<div class="modal fade" id="updatePayment" tabindex="-1" role="dialog" aria-labelledby="updatePaymentLabel"
+    aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="mb-0">Update payment Information</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -27,15 +31,23 @@
                         <div class="form-group position-relative">
                             <label class="form-control-label" for="card-number">Card details</label>
                             <span class="secured-by-text">
-                                <svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-                                        <g id="Specific---3.-Start-free-trial---Web" transform="translate(-428.000000, -304.000000)">
+                                <svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                                        stroke-linecap="round" stroke-linejoin="round">
+                                        <g id="Specific---3.-Start-free-trial---Web"
+                                            transform="translate(-428.000000, -304.000000)">
                                             <g id="Group-23" transform="translate(263.000000, 146.000000)">
                                                 <g id="Group-12" transform="translate(0.000000, 66.000000)">
                                                     <g id="icon-payment" transform="translate(166.000000, 93.000000)">
-                                                        <path d="M8.57142857,11.5714286 L0.857142857,11.5714286 C0.342857143,11.5714286 0,11.2285714 0,10.7142857 L0,5.57142857 C0,5.05714286 0.342857143,4.71428571 0.857142857,4.71428571 L8.57142857,4.71428571 C9.08571429,4.71428571 9.42857143,5.05714286 9.42857143,5.57142857 L9.42857143,10.7142857 C9.42857143,11.2285714 9.08571429,11.5714286 8.57142857,11.5714286 Z" id="Stroke-1" stroke="#687992" fill="#687992"></path>
-                                                        <path d="M7.71428571,4.71428571 L1.71428571,4.71428571 L1.71428571,3.42857143 C1.71428571,1.8 3.08571429,0.428571429 4.71428571,0.428571429 L4.71428571,0.428571429 C6.34285714,0.428571429 7.71428571,1.8 7.71428571,3.42857143 L7.71428571,4.71428571 Z" id="Stroke-3" stroke="#687992"></path>
-                                                        <line x1="4.71428571" y1="7.28571429" x2="4.71428571" y2="9" id="Stroke-5" stroke="#FFFFFF"></line>
+                                                        <path
+                                                            d="M8.57142857,11.5714286 L0.857142857,11.5714286 C0.342857143,11.5714286 0,11.2285714 0,10.7142857 L0,5.57142857 C0,5.05714286 0.342857143,4.71428571 0.857142857,4.71428571 L8.57142857,4.71428571 C9.08571429,4.71428571 9.42857143,5.05714286 9.42857143,5.57142857 L9.42857143,10.7142857 C9.42857143,11.2285714 9.08571429,11.5714286 8.57142857,11.5714286 Z"
+                                                            id="Stroke-1" stroke="#687992" fill="#687992"></path>
+                                                        <path
+                                                            d="M7.71428571,4.71428571 L1.71428571,4.71428571 L1.71428571,3.42857143 C1.71428571,1.8 3.08571429,0.428571429 4.71428571,0.428571429 L4.71428571,0.428571429 C6.34285714,0.428571429 7.71428571,1.8 7.71428571,3.42857143 L7.71428571,4.71428571 Z"
+                                                            id="Stroke-3" stroke="#687992"></path>
+                                                        <line x1="4.71428571" y1="7.28571429" x2="4.71428571" y2="9"
+                                                            id="Stroke-5" stroke="#FFFFFF"></line>
                                                     </g>
                                                 </g>
                                             </g>
@@ -50,7 +62,8 @@
                                         <i class="fas fa fa-credit-card"></i>
                                     </span>
                                 </div>
-                                <input type="text" class="form-control" id="card-number" value="" placeholder="1234 1234 1234 1234">
+                                <input type="text" class="form-control" id="card-number" value=""
+                                    placeholder="1234 1234 1234 1234">
                             </div>
                             <div class="input-group">
                                 <input type="text" name="currency_amount" class="form-control" placeholder="0.0214 BTC">
@@ -62,14 +75,16 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label class="form-control-label" for="exp-date">Expiration</label>
-                                    <input type="text" class="form-control" id="exp-date" name="exp-date" placeholder="MM/YY">
+                                    <input type="text" class="form-control" id="exp-date" name="exp-date"
+                                        placeholder="MM/YY">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label class="form-control-label d-flex" for="cvc">
                                         <span>Security Code (CVV)</span>
-                                        <div class="form-tooltip" data-toggle="tooltip" data-placement="top" title="Your card's security code (CVV) is the 3 or 4 digit number located on the back of most cards.">
+                                        <div class="form-tooltip" data-toggle="tooltip" data-placement="top"
+                                            title="Your card's security code (CVV) is the 3 or 4 digit number located on the back of most cards.">
                                             ?</div>
                                     </label>
                                     <input type="text" class="form-control" id="cvc" name="cvc" placeholder="">
@@ -77,7 +92,8 @@
                             </div>
                         </div>
                         <div class="mt-xs-4">
-                            <a href="#" class="btn btn-default btn-primary btn-md shadow-0 mb-2" data-toggle="modal" data-target="#paymentModal">Update payment info</a>
+                            <a href="#" class="btn btn-default btn-primary btn-md shadow-0 mb-2" data-toggle="modal"
+                                data-target="#paymentModal">Update payment info</a>
                         </div>
                     </form>
                 </div>
@@ -93,9 +109,12 @@
             <div class="modal-header">
                 <h4 class="mb-0">Update payment Information</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -115,15 +134,23 @@
                         <div class="form-group position-relative">
                             <label class="form-control-label" for="card-number">Card details</label>
                             <span class="secured-by-text">
-                                <svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-                                        <g id="Specific---3.-Start-free-trial---Web" transform="translate(-428.000000, -304.000000)">
+                                <svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
+                                        stroke-linecap="round" stroke-linejoin="round">
+                                        <g id="Specific---3.-Start-free-trial---Web"
+                                            transform="translate(-428.000000, -304.000000)">
                                             <g id="Group-23" transform="translate(263.000000, 146.000000)">
                                                 <g id="Group-12" transform="translate(0.000000, 66.000000)">
                                                     <g id="icon-payment" transform="translate(166.000000, 93.000000)">
-                                                        <path d="M8.57142857,11.5714286 L0.857142857,11.5714286 C0.342857143,11.5714286 0,11.2285714 0,10.7142857 L0,5.57142857 C0,5.05714286 0.342857143,4.71428571 0.857142857,4.71428571 L8.57142857,4.71428571 C9.08571429,4.71428571 9.42857143,5.05714286 9.42857143,5.57142857 L9.42857143,10.7142857 C9.42857143,11.2285714 9.08571429,11.5714286 8.57142857,11.5714286 Z" id="Stroke-1" stroke="#687992" fill="#687992"></path>
-                                                        <path d="M7.71428571,4.71428571 L1.71428571,4.71428571 L1.71428571,3.42857143 C1.71428571,1.8 3.08571429,0.428571429 4.71428571,0.428571429 L4.71428571,0.428571429 C6.34285714,0.428571429 7.71428571,1.8 7.71428571,3.42857143 L7.71428571,4.71428571 Z" id="Stroke-3" stroke="#687992"></path>
-                                                        <line x1="4.71428571" y1="7.28571429" x2="4.71428571" y2="9" id="Stroke-5" stroke="#FFFFFF"></line>
+                                                        <path
+                                                            d="M8.57142857,11.5714286 L0.857142857,11.5714286 C0.342857143,11.5714286 0,11.2285714 0,10.7142857 L0,5.57142857 C0,5.05714286 0.342857143,4.71428571 0.857142857,4.71428571 L8.57142857,4.71428571 C9.08571429,4.71428571 9.42857143,5.05714286 9.42857143,5.57142857 L9.42857143,10.7142857 C9.42857143,11.2285714 9.08571429,11.5714286 8.57142857,11.5714286 Z"
+                                                            id="Stroke-1" stroke="#687992" fill="#687992"></path>
+                                                        <path
+                                                            d="M7.71428571,4.71428571 L1.71428571,4.71428571 L1.71428571,3.42857143 C1.71428571,1.8 3.08571429,0.428571429 4.71428571,0.428571429 L4.71428571,0.428571429 C6.34285714,0.428571429 7.71428571,1.8 7.71428571,3.42857143 L7.71428571,4.71428571 Z"
+                                                            id="Stroke-3" stroke="#687992"></path>
+                                                        <line x1="4.71428571" y1="7.28571429" x2="4.71428571" y2="9"
+                                                            id="Stroke-5" stroke="#FFFFFF"></line>
                                                     </g>
                                                 </g>
                                             </g>
@@ -138,7 +165,8 @@
                                         <i class="fas fa fa-credit-card"></i>
                                     </span>
                                 </div>
-                                <input type="text" class="form-control" id="card-number" value="" placeholder="1234 1234 1234 1234">
+                                <input type="text" class="form-control" id="card-number" value=""
+                                    placeholder="1234 1234 1234 1234">
                             </div>
                             <div class="input-group">
                                 <input type="text" name="currency_amount" class="form-control" placeholder="0.0214 BTC">
@@ -150,14 +178,16 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label class="form-control-label" for="exp-date">Expiration</label>
-                                    <input type="text" class="form-control" id="exp-date" name="exp-date" placeholder="MM/YY">
+                                    <input type="text" class="form-control" id="exp-date" name="exp-date"
+                                        placeholder="MM/YY">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label class="form-control-label d-flex" for="cvc">
                                         <span>Security Code (CVV)</span>
-                                        <div class="form-tooltip" data-toggle="tooltip" data-placement="top" title="Your card's security code (CVV) is the 3 or 4 digit number located on the back of most cards.">
+                                        <div class="form-tooltip" data-toggle="tooltip" data-placement="top"
+                                            title="Your card's security code (CVV) is the 3 or 4 digit number located on the back of most cards.">
                                             ?</div>
                                     </label>
                                     <input type="text" class="form-control" id="cvc" name="cvc" placeholder="">
@@ -165,7 +195,8 @@
                             </div>
                         </div>
                         <div class="mt-xs-4">
-                            <a href="#" class="btn btn-default btn-primary btn-md shadow-0 mb-2" data-toggle="modal" data-target="#paymentModal">Proceed to checkout</a>
+                            <a href="#" class="btn btn-default btn-primary btn-md shadow-0 mb-2" data-toggle="modal"
+                                data-target="#paymentModal">Proceed to checkout</a>
                         </div>
                     </form>
                 </div>
@@ -176,14 +207,18 @@
 
 
 <!-- Billing Details -->
-<div class="modal fade" id="billingDetails" tabindex="-1" role="dialog" aria-labelledby="billingDetailsLabel" aria-hidden="true">
+<div class="modal fade" id="billingDetails" tabindex="-1" role="dialog" aria-labelledby="billingDetailsLabel"
+    aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header border-0">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -250,14 +285,18 @@
 </div>
 
 <!-- 2FA -->
-<div class="modal fade" id="TwoFactorAuthentication" tabindex="-1" role="dialog" aria-labelledby="TwoFactorAuthenticationLabel" aria-hidden="true">
+<div class="modal fade" id="TwoFactorAuthentication" tabindex="-1" role="dialog"
+    aria-labelledby="TwoFactorAuthenticationLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header border-0">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -272,8 +311,10 @@
                 <div class="two-factor--selection-card">
                     <div class="two-factor--selection">
                         <div class="selection-icon">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#222E3A" xmlns="http://www.w3.org/2000/svg" class="icon">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M20 4H4a2 2 0 00-2 2v12c0 1.1.9 2 2 2h16a2 2 0 002-2V6a2 2 0 00-2-2zM4 8l8 5 8-5v10H4V8zm0-2l8 5 8-5H4z">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#222E3A"
+                                xmlns="http://www.w3.org/2000/svg" class="icon">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M20 4H4a2 2 0 00-2 2v12c0 1.1.9 2 2 2h16a2 2 0 002-2V6a2 2 0 00-2-2zM4 8l8 5 8-5v10H4V8zm0-2l8 5 8-5H4z">
                                 </path>
                             </svg>
                         </div>
@@ -283,8 +324,10 @@
                                 requests.</div>
                         </div>
                         <div class="selection-arrow">
-                            <svg width="24" height="24" class="arrow-icon" viewBox="0 0 24 24" fill="#222E3A" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M8.33404 17.6862C7.889 17.2681 7.8886 16.5904 8.33316 16.1719L12.7646 12L8.33316 7.82807C7.8886 7.40955 7.889 6.73185 8.33404 6.31379C8.77942 5.8954 9.50152 5.8954 9.9469 6.31379L16 12L9.9469 17.6862C9.50152 18.1046 8.77942 18.1046 8.33404 17.6862Z">
+                            <svg width="24" height="24" class="arrow-icon" viewBox="0 0 24 24" fill="#222E3A"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M8.33404 17.6862C7.889 17.2681 7.8886 16.5904 8.33316 16.1719L12.7646 12L8.33316 7.82807C7.8886 7.40955 7.889 6.73185 8.33404 6.31379C8.77942 5.8954 9.50152 5.8954 9.9469 6.31379L16 12L9.9469 17.6862C9.50152 18.1046 8.77942 18.1046 8.33404 17.6862Z">
                                 </path>
                             </svg>
                         </div>
@@ -298,14 +341,18 @@
 </div>
 
 <!-- Single Transaction View  -->
-<div class="modal fade" id="transactionDetailsModal" tabindex="-1" role="dialog" aria-labelledby="transactionDetailsModal" aria-hidden="true">
+<div class="modal fade" id="transactionDetailsModal" tabindex="-1" role="dialog"
+    aria-labelledby="transactionDetailsModal" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header border-0">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -392,14 +439,18 @@
 </div>
 
 <!-- Transaction History -->
-<div class="modal fade" id="transactionHistoryModal" tabindex="-1" role="dialog" aria-labelledby="transactionHistoryModal" aria-hidden="true">
+<div class="modal fade" id="transactionHistoryModal" tabindex="-1" role="dialog"
+    aria-labelledby="transactionHistoryModal" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header border-0">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -409,7 +460,7 @@
                     <div class="content-overline"> <span class="content-overline-text"> 01 Mar, 2023 - 23 Mar,
                             2023</span> </div>
                 </div>
-                <a href="user-profile.php">
+                <a href="user-profile.html">
                     <div class="media d-flex flex-column justify-content-center align-items-center mb-3">
                         <img class="mb-3 rounded-circle mr-0" src="images/avatar-3.png" width="55" height="55" alt="">
                         <div class="media-body">
@@ -442,7 +493,8 @@
                                     <td>1</td>
                                     <td>S-SAVE-0001</td>
                                     <td>02-03-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-danger">20,000</td>
                                     <td><span class="badge badge-success">Success</span></td>
                                 </tr>
@@ -450,7 +502,8 @@
                                     <td>2</td>
                                     <td>S-SAVE-04091</td>
                                     <td>01-02-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">1,850</td>
                                     <td><span class="badge badge-success">Success</span></td>
                                 </tr>
@@ -458,7 +511,8 @@
                                     <td>3</td>
                                     <td>S-SAVE-0021</td>
                                     <td>10-03-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">15,280</td>
                                     <td><span class="badge badge-success">Success</span></td>
                                 </tr>
@@ -466,7 +520,8 @@
                                     <td>4</td>
                                     <td>S-SAVE-0096</td>
                                     <td>24-02-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-danger">110,000</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                 </tr>
@@ -474,7 +529,8 @@
                                     <td>5</td>
                                     <td>S-SAVE-0490</td>
                                     <td>10-03-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">200,000</td>
                                     <td><span class="badge badge-danger">Failed</span></td>
                                 </tr>
@@ -482,7 +538,8 @@
                                     <td>6</td>
                                     <td>S-SAVE-0034</td>
                                     <td>02-01-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">19,000</td>
                                     <td><span class="badge badge-success">Success</span></td>
                                 </tr>
@@ -490,7 +547,8 @@
                                     <td>7</td>
                                     <td>S-SAVE-0031</td>
                                     <td>02-03-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-danger">816,927</td>
                                     <td><span class="badge badge-danger">Failed</span></td>
                                 </tr>
@@ -498,7 +556,8 @@
                                     <td>8</td>
                                     <td>S-SAVE-0501</td>
                                     <td>02-03-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-danger">20,000</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                 </tr>
@@ -506,7 +565,8 @@
                                     <td>9</td>
                                     <td>S-SAVE-0641</td>
                                     <td>02-02-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">94,250</td>
                                     <td><span class="badge badge-danger">Failed</span></td>
                                 </tr>
@@ -514,7 +574,8 @@
                                     <td>10</td>
                                     <td>S-SAVE-0482</td>
                                     <td>26-02-2023</td>
-                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg" alt=""></td>
+                                    <td><img width="40px" height="40px" src="images/icons/standard-savings-icon.svg"
+                                            alt=""></td>
                                     <td class="text-success">20,000</td>
                                     <td><span class="badge badge-success">Success</span></td>
                                 </tr>
@@ -528,14 +589,18 @@
 </div>
 
 <!-- Wallet Transaction History -->
-<div class="modal fade" id="walletTransactionHistoryModal" tabindex="-1" role="dialog" aria-labelledby="transactionHistoryModal" aria-hidden="true">
+<div class="modal fade" id="walletTransactionHistoryModal" tabindex="-1" role="dialog"
+    aria-labelledby="transactionHistoryModal" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header border-0">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                    <svg width="22" height="22" class="close-icon" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 6L18 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round" />
                     </svg>
                 </button>
             </div>
@@ -545,7 +610,7 @@
                     <div class="content-overline"> <span class="content-overline-text"> 01 Mar, 2023 - 23 Mar,
                             2023</span> </div>
                 </div>
-                <a href="user-profile.php">
+                <a href="user-profile.html">
                     <div class="media d-flex flex-column justify-content-center align-items-center mb-3">
                         <img class="mb-3 rounded-circle mr-0" src="images/avatar-3.png" width="55" height="55" alt="">
                         <div class="media-body d-flex flex-column justify-content-center align-items-center">
@@ -654,7 +719,8 @@
 </div>
 
 <!-- Add New User -->
-<div class="modal fade" id="add-new-user" tabindex="-1" role="dialog" aria-labelledby="add-new-user-label" aria-hidden="true">
+<div class="modal fade" id="add-new-user" tabindex="-1" role="dialog" aria-labelledby="add-new-user-label"
+    aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -743,7 +809,8 @@
 
 
 <!-- Edit Profile -->
-<div class="modal fade" id="edit-profile-modal" tabindex="-1" role="dialog" aria-labelledby="edit-profile-modal-label" aria-hidden="true">
+<div class="modal fade" id="edit-profile-modal" tabindex="-1" role="dialog" aria-labelledby="edit-profile-modal-label"
+    aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -822,7 +889,8 @@
 
 
 <!-- Create New Notification -->
-<div class="modal fade" id="create-new-notification-modal" tabindex="-1" role="dialog" aria-labelledby="create-new-notification-modal-label" aria-hidden="true">
+<div class="modal fade" id="create-new-notification-modal" tabindex="-1" role="dialog"
+    aria-labelledby="create-new-notification-modal-label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -852,11 +920,15 @@
                         <div class="col-12">
                             <div class="form-group">
                                 <label class="mb-2" for="last_name">Message</label>
-                                <div class="d-flex flex-column justify-content-center w-100" style="border: 1px solid #bcc3d2; border-radius:5px;">
+                                <div class="d-flex flex-column justify-content-center w-100"
+                                    style="border: 1px solid #bcc3d2; border-radius:5px;">
                                     <div class="notification-message-toolbar">
-                                        <button type="button" onclick="applyFieldStyles('bold')"><i class="fa-solid fa-bold"></i></button>
-                                        <button type="button" onclick="applyFieldStyles('italic')"><i class="fa-solid fa-italic"></i></button>
-                                        <button type="button" onclick="applyFieldStyles('underline')"><i class="fa-solid fa-underline"></i></button>
+                                        <button type="button" onclick="applyFieldStyles('bold')"><i
+                                                class="fa-solid fa-bold"></i></button>
+                                        <button type="button" onclick="applyFieldStyles('italic')"><i
+                                                class="fa-solid fa-italic"></i></button>
+                                        <button type="button" onclick="applyFieldStyles('underline')"><i
+                                                class="fa-solid fa-underline"></i></button>
                                     </div>
                                     <div contenteditable="true" id="notification-message-field">Enter text here</div>
                                 </div>
@@ -875,7 +947,8 @@
 
 
 <!-- View Notification -->
-<div class="modal fade" id="view-notification-modal" tabindex="-1" role="dialog" aria-labelledby="view-notification-modal-label" aria-hidden="true">
+<div class="modal fade" id="view-notification-modal" tabindex="-1" role="dialog"
+    aria-labelledby="view-notification-modal-label" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -887,10 +960,11 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="col-12">
-                        <a href="user-profile.php">
+                        <a href="user-profile.html">
                             <h5>Sender:</h5>
                             <div class="media d-flex flex-column justify-content-center align-items-center mb-3">
-                                <img class="mb-3 rounded-circle mr-0" src="images/avatar-1.png" width="55" height="55" alt="">
+                                <img class="mb-3 rounded-circle mr-0" src="images/avatar-1.png" width="55" height="55"
+                                    alt="">
                                 <div class="media-body">
                                     <h4 class="mb-0">Daniella Kelly</h4>
                                 </div>
@@ -925,7 +999,8 @@
                     <div class="col-12">
                         <div class="form-group">
                             <label class="mb-2" for="first_name">Message</label>
-                            <textarea disabled class="form-control">We Wish you a happy new month and a better experience with us. May the best this month has for you be unleashed to you. Get 10% discount on any utility you pay from in the next 24 hours 🤗</textarea>
+                            <textarea disabled
+                                class="form-control">We Wish you a happy new month and a better experience with us. May the best this month has for you be unleashed to you. Get 10% discount on any utility you pay from in the next 24 hours 🤗</textarea>
                         </div>
                     </div>
                 </div>

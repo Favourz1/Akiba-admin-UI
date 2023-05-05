@@ -22,8 +22,8 @@
         <div class="content-body utility-content-body">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb mb-1">
-                    <li class="breadcrumb-item"><a href="akibaPay.php">AkibaPay</a></li>
-                    <li class="breadcrumb-item active" aria-current="page"><a href="utility.php">Utility</a></li>
+                    <li class="breadcrumb-item"><a href="akibaPay.html">AkibaPay</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><a href="utility.html">Utility</a></li>
                 </ol>
             </nav>
             <div class="container">

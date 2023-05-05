@@ -83,7 +83,7 @@
                                             <tr>
                                                 <td>1</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-1.png">
                                                         </div>
@@ -104,7 +104,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -115,7 +115,7 @@
                                             <tr>
                                                 <td>2</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <div class="avatar-initials"
                                                                 style="background: #ff9922; color: #333;">
@@ -139,7 +139,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -150,7 +150,7 @@
                                             <tr>
                                                 <td>3</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-2.png">
                                                         </div>
@@ -171,7 +171,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -182,7 +182,7 @@
                                             <tr>
                                                 <td>4</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-7.png">
                                                         </div>
@@ -203,7 +203,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -214,7 +214,7 @@
                                             <tr>
                                                 <td>5</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <div class="avatar-initials"
                                                                 style="background: #ff87be; color: #333;">
@@ -238,7 +238,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -249,7 +249,7 @@
                                             <tr>
                                                 <td>6</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-3.png">
                                                         </div>
@@ -270,7 +270,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -281,7 +281,7 @@
                                             <tr>
                                                 <td>7</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <div class="avatar-initials"
                                                                 style="background:#1fd9139e; color: #333;">
@@ -305,7 +305,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -316,7 +316,7 @@
                                             <tr>
                                                 <td>8</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <div class="avatar-initials"
                                                                 style="background: #77ff2266; color: #333;">
@@ -340,7 +340,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -351,7 +351,7 @@
                                             <tr>
                                                 <td>9</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-6.png">
                                                         </div>
@@ -372,7 +372,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>
@@ -383,7 +383,7 @@
                                             <tr>
                                                 <td>10</td>
                                                 <td>
-                                                    <a href="user-profile.php" class="user-name-cell">
+                                                    <a href="user-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-8.png">
                                                         </div>
@@ -404,7 +404,7 @@
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
                                                             aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="user-profile.php"><i
+                                                            <a class="dropdown-item" href="user-profile.html"><i
                                                                     class="fas fa-eye" aria-hidden="true"></i>View</a>
                                                             <a class="dropdown-item" href="#"><i class="fas fa-lock"
                                                                     aria-hidden="true"></i>Disable</a>

@@ -22,8 +22,9 @@
         <div class="content-body user-profile-content-body">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb mb-1">
-                    <li class="breadcrumb-item"><a href="dashboard.php">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page"><a href="admin-profile.php">Admin Profile</a>
+                    <li class="breadcrumb-item"><a href="dashboard.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><a href="admin-profile.html">Admin
+                            Profile</a>
                     </li>
                 </ol>
             </nav>
@@ -40,14 +41,19 @@
                                         <div class="user-name-text">Billy Waymond</div>
                                         <div class="user-name-sub-text">@billy_way</div>
                                         <div class="dropdown">
-                                            <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                                            <a class="btn dropdown-toggle" id="more-option" href="#" role="button"
+                                                data-toggle="dropdown" aria-expanded="false">
                                                 <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                             </a>
-                                            <div class="dropdown-menu dropdown-menu-top" x-placement="top-right" aria-labelledby="more-option">
-                                                <a class="dropdown-item" href=""><i class="fas fa-copy" aria-hidden="true"></i>Copy Link</a>
-                                                <a class="dropdown-item" href="#edit-profile-modal" data-toggle="modal"><i class="fa-solid fa-pen-to-square"></i>Edit
+                                            <div class="dropdown-menu dropdown-menu-top" x-placement="top-right"
+                                                aria-labelledby="more-option">
+                                                <a class="dropdown-item" href=""><i class="fas fa-copy"
+                                                        aria-hidden="true"></i>Copy Link</a>
+                                                <a class="dropdown-item" href="#edit-profile-modal"
+                                                    data-toggle="modal"><i class="fa-solid fa-pen-to-square"></i>Edit
                                                     Profile</a>
-                                                <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
+                                                <a class="dropdown-item" href="#"><i class="fas fa-lock"
+                                                        aria-hidden="true"></i>Disable</a>
                                             </div>
                                         </div>
                                     </div>
@@ -60,7 +66,8 @@
                                             </div>
                                             <div class="col-lg-6 personal-details-item">
                                                 <div class="personal-details-title">User Type</div>
-                                                <div class="personal-details-desc"><span class="badge badge badge-super-admin">Super Admin</span></div>
+                                                <div class="personal-details-desc"><span
+                                                        class="badge badge badge-super-admin">Super Admin</span></div>
                                             </div>
                                             <div class="col-lg-6 personal-details-item">
                                                 <div class="personal-details-title">Email</div>

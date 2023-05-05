@@ -4,7 +4,7 @@
             <div class="col-xl-12">
                 <nav class="navbar">
                     <div class="header-search d-flex align-items-center">
-                        <a class="brand-logo mr-3" href="dashboard.php">
+                        <a class="brand-logo mr-3" href="dashboard.html">
                             <img width="30" height="30" src="images/logo/akiba-tribe-crop.png" alt="">
                         </a>
                         <div class="navbar-title d-flex flex-column flex-md-row">
@@ -81,14 +81,14 @@
                                                 title="okohfavour91@gmail.com">okohfavour91@gmail.com</span>
                                         </div>
                                     </div>
-                                    <a href="admin-profile.php" class="dropdown-item">
+                                    <a href="admin-profile.html" class="dropdown-item">
                                         <i class="mdi mdi-account icon"></i> Profile
                                     </a>
-                                    <a href="settings.php" class="dropdown-item">
+                                    <a href="settings.html" class="dropdown-item">
                                         <i class="la la-cog icon"></i> Setting
                                     </a>
                                     <div class="dropdown-divider"></div>
-                                    <a href="login.php" class="dropdown-item logout">
+                                    <a href="login.html" class="dropdown-item logout">
                                         <i class="la la-sign-out icon"></i> Logout
                                     </a>
                                 </div>

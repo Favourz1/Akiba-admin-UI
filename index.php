@@ -18,7 +18,7 @@
                 <div class="auth-content">
                     <div class="auth-form">
                         <div class="mini-logo text-center mb-5">
-                            <a href="login.php">
+                            <a href="login.html">
                                 <img src="./images/logo/akiba-tribe.png" alt="Akiba Logo">
                             </a>
                         </div>
@@ -26,9 +26,9 @@
                             <div class="text-center mb-4 pb-1">
                                 <h3 class="login-header">Welcome back 👋</h3>
                                 <p class="login-subtext">Log in to your account. New to Akiba? <a class="text-link"
-                                        href="signup.php">Sign up</a></p>
+                                        href="signup.html">Sign up</a></p>
                             </div>
-                            <form method="post" name="myform" class="" action="dashboard.php">
+                            <form method="post" name="myform" class="" action="dashboard.html">
                                 <div class="form-group">
                                     <label>Email address</label>
                                     <input type="text" class="form-control" placeholder="Email address" name="email">
@@ -44,7 +44,7 @@
                                 </div>
                                 <div class="forgot-password text-center mt-4">
                                     <p class="mb-0"><a class="text-link forgot-password--link"
-                                            href="password-reset.php">Forget password?</a></p>
+                                            href="password-reset.html">Forget password?</a></p>
                                 </div>
                             </form>
                         </div>

@@ -69,7 +69,7 @@
                                                                     <td>1</td>
                                                                     <td>N-0001</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -92,7 +92,7 @@
                                                                     <td>2</td>
                                                                     <td>N-04091</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -115,7 +115,7 @@
                                                                     <td>3</td>
                                                                     <td>N-0021</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -137,7 +137,7 @@
                                                                     <td>4</td>
                                                                     <td>N-0096</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -159,7 +159,7 @@
                                                                     <td>5</td>
                                                                     <td>N-0490</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -181,7 +181,7 @@
                                                                     <td>6</td>
                                                                     <td>N-0034</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -204,7 +204,7 @@
                                                                     <td>7</td>
                                                                     <td>N-0031</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -226,7 +226,7 @@
                                                                     <td>8</td>
                                                                     <td>N-0501</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -249,7 +249,7 @@
                                                                     <td>9</td>
                                                                     <td>N-0641</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"
@@ -271,7 +271,7 @@
                                                                     <td>10</td>
                                                                     <td>N-0482</td>
                                                                     <td>
-                                                                        <a href="user-profile.php"
+                                                                        <a href="user-profile.html"
                                                                             class="user-name-cell">
                                                                             <div class="user-avatar-wrapper">
                                                                                 <img alt="User Image"

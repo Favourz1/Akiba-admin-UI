@@ -36,8 +36,7 @@
                             <div class="card-body">
                                 <div class="card-header d-flex align-items-start mb-3 pl-0">
                                     <h4 class="card-title">Admin Users</h4>
-                                    <a href="#" id="new-user--btn" class="btn btn-sm shadow-0" data-toggle="modal"
-                                        data-target="#add-new-user"><i class="fa fa-plus pr-1"></i>
+                                    <a href="#" id="new-user--btn" class="btn btn-sm shadow-0" data-toggle="modal" data-target="#add-new-user"><i class="fa fa-plus pr-1"></i>
                                         New User</a>
                                     <!-- <div class="card-body w-100">
                                         <form action="">
@@ -83,7 +82,7 @@
                                             <tr>
                                                 <td>1</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-1.png">
                                                         </div>
@@ -98,16 +97,12 @@
                                                 <td class="text-muted">Female</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -115,10 +110,9 @@
                                             <tr>
                                                 <td>2</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
-                                                            <div class="avatar-initials"
-                                                                style="background: #ff9922; color: #333;">
+                                                            <div class="avatar-initials" style="background: #ff9922; color: #333;">
                                                                 <span class="avatar-initials-text">CA</span>
                                                             </div>
                                                         </div>
@@ -133,16 +127,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -150,7 +140,7 @@
                                             <tr>
                                                 <td>3</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-2.png">
                                                         </div>
@@ -165,16 +155,12 @@
                                                 <td class="text-muted">Female</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -182,7 +168,7 @@
                                             <tr>
                                                 <td>4</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-7.png">
                                                         </div>
@@ -197,16 +183,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -214,10 +196,9 @@
                                             <tr>
                                                 <td>5</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
-                                                            <div class="avatar-initials"
-                                                                style="background: #ff87be; color: #333;">
+                                                            <div class="avatar-initials" style="background: #ff87be; color: #333;">
                                                                 <span class="avatar-initials-text">SO</span>
                                                             </div>
                                                         </div>
@@ -232,16 +213,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -249,7 +226,7 @@
                                             <tr>
                                                 <td>6</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-3.png">
                                                         </div>
@@ -264,16 +241,12 @@
                                                 <td class="text-muted">Female</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -281,10 +254,9 @@
                                             <tr>
                                                 <td>7</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
-                                                            <div class="avatar-initials"
-                                                                style="background:#1fd9139e; color: #333;">
+                                                            <div class="avatar-initials" style="background:#1fd9139e; color: #333;">
                                                                 <span class="avatar-initials-text">RL</span>
                                                             </div>
                                                         </div>
@@ -299,16 +271,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -316,10 +284,9 @@
                                             <tr>
                                                 <td>8</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
-                                                            <div class="avatar-initials"
-                                                                style="background: #77ff2266; color: #333;">
+                                                            <div class="avatar-initials" style="background: #77ff2266; color: #333;">
                                                                 <span class="avatar-initials-text">CO</span>
                                                             </div>
                                                         </div>
@@ -334,16 +301,12 @@
                                                 <td class="text-muted">Female</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -351,7 +314,7 @@
                                             <tr>
                                                 <td>9</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-6.png">
                                                         </div>
@@ -366,16 +329,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -383,7 +342,7 @@
                                             <tr>
                                                 <td>10</td>
                                                 <td>
-                                                    <a href="admin-profile.php" class="user-name-cell">
+                                                    <a href="admin-profile.html" class="user-name-cell">
                                                         <div class="user-avatar-wrapper">
                                                             <img alt="User Image" src="images/avatar-8.png">
                                                         </div>
@@ -398,16 +357,12 @@
                                                 <td class="text-muted">Male</td>
                                                 <td class="text-right">
                                                     <div class="dropdown">
-                                                        <a class="btn dropdown-toggle" id="more-option" href="#"
-                                                            role="button" data-toggle="dropdown" aria-expanded="false">
+                                                        <a class="btn dropdown-toggle" id="more-option" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
                                                             <i class="fas fa-ellipsis-h" aria-hidden="true"></i>
                                                         </a>
-                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow"
-                                                            aria-labelledby="more-option">
-                                                            <a class="dropdown-item" href="admin-profile.php"><i
-                                                                    class="fas fa-eye" aria-hidden="true"></i>View</a>
-                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock"
-                                                                    aria-hidden="true"></i>Disable</a>
+                                                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow" aria-labelledby="more-option">
+                                                            <a class="dropdown-item" href="admin-profile.html"><i class="fas fa-eye" aria-hidden="true"></i>View</a>
+                                                            <a class="dropdown-item" href="#"><i class="fas fa-lock" aria-hidden="true"></i>Disable</a>
                                                         </div>
                                                     </div>
                                                 </td>
@@ -424,17 +379,9 @@
                                 <div class="col-sm-12 col-md-7 d-flex justify-content-end">
                                     <div class="">
                                         <ul class="pagination">
-                                            <li class="paginate_button page-item previous disabled"
-                                                id="datatable-basic_previous"><a href="#"
-                                                    aria-controls="datatable-basic" data-dt-idx="0" tabindex="0"
-                                                    class="page-link"><i class="fas fa-angle-left"></i></a></li>
-                                            <li class="paginate_button page-item active"><a href="#"
-                                                    aria-controls="datatable-basic" data-dt-idx="1" tabindex="0"
-                                                    class="page-link">1</a></li>
-                                            <li class="paginate_button page-item next disabled"
-                                                id="datatable-basic_next"><a href="#" aria-controls="datatable-basic"
-                                                    data-dt-idx="2" tabindex="0" class="page-link"><i
-                                                        class="fas fa-angle-right"></i></a></li>
+                                            <li class="paginate_button page-item previous disabled" id="datatable-basic_previous"><a href="#" aria-controls="datatable-basic" data-dt-idx="0" tabindex="0" class="page-link"><i class="fas fa-angle-left"></i></a></li>
+                                            <li class="paginate_button page-item active"><a href="#" aria-controls="datatable-basic" data-dt-idx="1" tabindex="0" class="page-link">1</a></li>
+                                            <li class="paginate_button page-item next disabled" id="datatable-basic_next"><a href="#" aria-controls="datatable-basic" data-dt-idx="2" tabindex="0" class="page-link"><i class="fas fa-angle-right"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

@@ -1,11 +1,11 @@
 <div class="sidebar">
-    <a class="brand-logo" href="index.php">
+    <a class="brand-logo" href="index.html">
         <img src="./images/logo/akiba-tribe.png" alt="Akiba Logo">
     </a>
     <div class="menu">
         <ul>
             <li>
-                <a href="dashboard.php">
+                <a href="dashboard.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M21.9805 12C21.9805 7.02908 17.9514 3 12.9805 3C8.00955 3 3.98047 7.02908 3.98047 12C3.98047 16.9699 8.00955 21 12.9805 21C17.9514 21 21.9805 16.9699 21.9805 12Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M12.9805 3V5.25049M6.61719 5.63672L8.208 7.22753M19.3441 18.3646L17.5938 16.6152M6.61719 18.3646L8.36757 16.6152M19.3447 5.63672L17.7539 7.22753M3.98047 12H6.45571M21.9814 12H19.7305" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -31,14 +31,14 @@
                     <span class="nav-text">Users</span>
                 </a>
                 <div class="dropdown-menu dropdown-menu-arrow" style="height: 0;" aria-labelledby="sidebar-menu--dropdown">
-                    <a class="dropdown-item" href="users.php">Customer
+                    <a class="dropdown-item" href="users.html">Customer
                         Users</a>
-                    <a class="dropdown-item" href="admin-users.php">Admin
+                    <a class="dropdown-item" href="admin-users.html">Admin
                         Users</a>
                 </div>
             </li>
             <li>
-                <a href="wallet.php">
+                <a href="wallet.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <g id="Iconly/Light/Wallet" stroke="#ffffff" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
                             <g id="Wallet" transform="translate(2.500000, 3.000000)" stroke="#ffffff" stroke-width="1.5">
@@ -55,7 +55,7 @@
                 </a>
             </li>
             <li>
-                <a href="savings.php">
+                <a href="savings.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.6855 16.8432H12.1353C13.1705 16.8432 14.0063 16.0989 14.0063 15.0636C14.0063 14.2035 13.4245 13.5156 12.5906 13.3064C11.3958 13.0067 10.2049 12.7713 8.95846 12.8014C6.98428 12.8501 5.60264 13.9505 4.03809 14.9984" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M10.6865 16.8774C11.4191 16.7704 12.1654 16.8784 12.9068 16.8609C14.6241 16.82 15.9698 15.3683 17.2765 14.3837C17.9449 13.8806 18.88 13.9478 19.4706 14.5403C20.1254 15.199 20.1254 16.2654 19.4706 16.9241C18.0588 18.3408 16.8114 19.6563 14.8975 20.3996C12.2423 21.4329 9.77868 20.9318 7.08936 20.3996C6.04924 20.1943 5.09085 20.1817 4.03711 20.1817" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -66,7 +66,7 @@
                 </a>
             </li>
             <li>
-                <a href="loans.php">
+                <a href="loans.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M20.1495 14.3008C20.1495 15.6464 18.0353 16.738 15.4278 16.738C12.8203 16.738 10.707 15.6464 10.707 14.3008" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M8.5733 12.1365C5.96579 12.1365 3.85156 11.0458 3.85156 9.69922" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -79,7 +79,7 @@
                 </a>
             </li>
             <li>
-                <a href="akibaPay.php">
+                <a href="akibaPay.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M16.9357 19.9023L17.6956 20.2661C18.4944 20.6485 19.4187 20.0657 19.4177 19.1793L19.408 6.92492C19.408 4.50225 18.0604 3 15.6417 3H8.34252C5.91791 3 4.59955 4.50225 4.59955 6.92492L4.58203 19.1774C4.58106 20.0638 5.50537 20.6475 6.30514 20.2642L7.05919 19.9032C7.51259 19.6853 8.03701 19.6697 8.50306 19.8604L10.6494 20.7351C11.5144 21.0883 12.4844 21.0883 13.3494 20.7351L15.4918 19.8604C15.9579 19.6697 16.4823 19.6853 16.9357 19.9023Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M9.25586 14.4531H14.3639" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -89,7 +89,7 @@
                 </a>
             </li>
             <li>
-                <a href="cashback.php">
+                <a href="cashback.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.465 8.54329L7.96484 6.04313L10.465 3.54297" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M13.5352 15.957L16.0353 18.4572L13.5352 20.9574" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -100,7 +100,7 @@
                 </a>
             </li>
             <li>
-                <a href="referrals.php">
+                <a href="referrals.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M3.15039 17.7643L5.71808 18.3578L6.30868 15.8047" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M21.1505 6.23805L18.5828 5.64453L17.9922 8.19763" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -113,7 +113,7 @@
                 </a>
             </li>
             <li>
-                <a href="notifications.php">
+                <a href="notifications.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M9.93262 19.9746C10.4366 20.6041 11.1926 21.0001 12.0293 21.0001C12.8748 21.0001 13.6308 20.6041 14.1348 19.9746" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M4.66406 13.9973C4.88201 16.6107 7.13343 17.2616 11.9992 17.2616C16.864 17.2616 19.1154 16.6195 19.3343 13.9973C19.3343 11.3859 17.764 11.5533 17.764 8.34932C17.764 5.84687 15.4892 3 11.9992 3C8.50919 3 6.23442 5.84687 6.23442 8.35029C6.23442 11.5542 4.66406 11.3879 4.66406 13.9973Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -122,7 +122,7 @@
                 </a>
             </li>
             <li>
-                <a href="settings.php">
+                <a href="settings.html">
                     <svg width="20px" height="20px" class="svg-icon" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M8.76263 3H17.1973C20.1454 3 21.9805 5.08119 21.9805 8.02638V15.9736C21.9805 18.9188 20.1454 21 17.1964 21H8.76263C5.81452 21 3.98047 18.9188 3.98047 15.9736V8.02638C3.98047 5.08119 5.82328 3 8.76263 3Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8047 15.1393C13.7989 16.0724 14.55 16.8342 15.4831 16.8411C16.4162 16.8469 17.178 16.0958 17.1848 15.1627C17.1907 14.2286 16.4395 13.4668 15.5065 13.4609H15.4948C14.5646 13.458 13.8076 14.2092 13.8047 15.1393Z" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
