@@ -29,8 +29,7 @@
                                     <a href="#!" class="list-group-item list-group-item-action">
                                         <div class="row align-items-center">
                                             <div class="col-auto">
-                                                <img alt="Img" src="assets/img/theme/team-1.jpg"
-                                                    class="avatar rounded-circle">
+                                                <i class="fa-regular fa-envelope"></i>
                                             </div>
                                             <div class="col ml-2">
                                                 <p class="font-size-14 lh-14 mb-0">Let's meet at Starbucks at 11:30.
@@ -42,8 +41,7 @@
                                     <a href="#!" class="list-group-item list-group-item-action">
                                         <div class="row align-items-center">
                                             <div class="col-auto">
-                                                <img alt="Img" src="assets/img/theme/team-2.jpg"
-                                                    class="avatar rounded-circle">
+                                                <i class="fa-regular fa-envelope"></i>
                                             </div>
                                             <div class="col ml--2">
                                                 <p class="font-size-14 lh-14 mb-0">A new issue has been reported for
@@ -56,8 +54,7 @@
                                         <div class="row align-items-center">
                                             <div class="col-auto">
                                                 <!-- Avatar -->
-                                                <img alt="Img" src="assets/img/theme/team-3.jpg"
-                                                    class="avatar rounded-circle">
+                                                <i class="fa-regular fa-envelope"></i>
                                             </div>
                                             <div class="col ml--2">
                                                 <p class="font-size-14 lh-14 mb-0">Your posts have been liked a lot.</p>
